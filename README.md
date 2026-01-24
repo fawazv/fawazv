@@ -50,9 +50,9 @@ Here are a few projects that showcase my ability to handle complex architectures
 
 | Project | Description | Tech Stack | Source |
 | :--- | :--- | :--- | :--- |
-| **Elite Hotel (Microservices)** | A scalable hotel management system built on microservices architecture. Features secure JWT auth, role-based access, and integrated payments. | Node.js, Express, Docker, K8s, Stripe, Redis | [View Code]([PROJECT_GITHUB_URL]) |
-| **Nxtcart E-Commerce** | A full-featured shopping platform with an admin dashboard. Includes robust authentication, PayPal/Stripe integration, and order management. | Next.js, TypeScript, Tailwind, Auth.js, MongoDB | [View Code]([PROJECT_GITHUB_URL]) |
-| **Dropbox Clone** | A cloud file storage application supporting drag-and-drop uploads, file metadata management, and secure authentication. | Next.js, Firebase, Clerk, Shadcn UI, Zustand | [View Code]([PROJECT_GITHUB_URL]) |
+| **Elite Hotel (Microservices)** | A scalable hotel management system built on microservices architecture. Features secure JWT auth, role-based access, and integrated payments. | Node.js, Express, Docker, K8s, Stripe, Redis | [View Code](https://github.com/fawazv/Elite-hotel) |
+| **Nxtcart E-Commerce** | A full-featured shopping platform with an admin dashboard. Includes robust authentication, PayPal/Stripe integration, and order management. | Next.js, TypeScript, Tailwind, Auth.js, MongoDB | [View Code](https://github.com/fawazv/nxt-cart) |
+| **Dropbox Clone** | A cloud file storage application supporting drag-and-drop uploads, file metadata management, and secure authentication. | Next.js, Firebase, Clerk, Shadcn UI, Zustand | [View Code](https://github.com/fawazv/dropbox-clone) |
 
 ---
 
