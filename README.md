@@ -60,7 +60,7 @@ Here are a few projects that showcase my ability to handle complex architectures
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-* **Portfolio:** [Visit My Website](https://portfolio-og-seven.vercel.app/)
+* **Portfolio:** [Visit My Website](https://www.fawazv.online/)
 * **Email:** [fawazv.business@gmail.com](mailto:fawazv.business@gmail.com)
 * **LinkedIn:** [Mohammed Fawaz](https://www.linkedin.com/in/mohammed-fawaz-216314280/)
 * **Location:** India
